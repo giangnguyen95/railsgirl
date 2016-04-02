@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+body{ 
+    padding-top: 100px; 
+    background-image: url(http://3.bp.blogspot.com/-gsiiLCFIJls/UChS_Tr1KPI/AAAAAAAAAMY/Kim8rG5APCA/s1600/flowers-art-flowers-backgrounds-powerpoint.png);
+}
+footer { margin-top: 100px; }
+table, td, th { 
+    vertical-align: middle; border: 1px groove #000!important; 
+    
+}
+th { border-bottom: 1px solid #DDD; }
+
+#navbar{
+    background-color: #e0e0d1;
+}
