@@ -20,6 +20,7 @@
     <strong><%= comment.user_name %></strong>
     <br />
     <p><%= comment.body %></p>
+    <p><%= image_tag(comment.picture_url, :width =>50) if comment.picture.present? %></p>
     <p><%= link_to 'Delete', comment_path(comment), method: :delete, data: { confirm: 'Are you sure?' } %></p>
   </div>
   <% end %>
