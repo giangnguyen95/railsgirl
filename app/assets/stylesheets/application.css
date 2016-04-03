@@ -14,9 +14,9 @@
  *= require_self
  */
 body{ 
-    padding-top: 100px; 
+    padding-top: 60px; 
     background-image: url(http://3.bp.blogspot.com/-gsiiLCFIJls/UChS_Tr1KPI/AAAAAAAAAMY/Kim8rG5APCA/s1600/flowers-art-flowers-backgrounds-powerpoint.png);
-    background-size: 100%;
+    background-size: 100% 100%;
 }
 footer { margin-top: 100px; }
 table, td, th { 
