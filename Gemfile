@@ -8,6 +8,7 @@ gem 'rails', '4.2.5'
 
 gem 'devise'
 
+gem 'gravtastic'
 group :development, :test do
   gem 'sqlite3'
 end
