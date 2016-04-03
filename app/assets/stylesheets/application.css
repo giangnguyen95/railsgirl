@@ -14,7 +14,7 @@
  *= require_self
  */
 body{ 
-    padding-top: 60px; 
+    padding-top: 100px; 
     background-image: url(http://3.bp.blogspot.com/-gsiiLCFIJls/UChS_Tr1KPI/AAAAAAAAAMY/Kim8rG5APCA/s1600/flowers-art-flowers-backgrounds-powerpoint.png);
     background-size: 100% 100%;
 }
@@ -25,6 +25,23 @@ table, td, th {
 }
 th { border-bottom: 1px solid #DDD; }
 
-#navbar{
-    background-color: #e0e0d1;
+#navbar1{
+    background-color: #e0e0d1 !important;
+}
+
+.navbar {
+  min-height: 38px;
+  background-color: #f55e55 !important;
+}
+
+.navbar a.brand { font-size: 18px; }
+.navbar a.brand:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #ebebeb;
+  padding: 30px 0;
 }
