@@ -1,0 +1,45 @@
+form{
+    width: 40%;
+    height: 40%;
+    background-color: #fff;
+    text-align: center;
+    border: solid 5px #ccccff !important;
+}
+
+form div {
+	display: block;
+	font-size: 1em;
+	color: #787878;
+	padding-bottom: 5px;
+	padding-left: 50px;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+	font-size: 2em;
+	color: #663300 !important;
+	padding-bottom: 5px;
+	text-align: center;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.field{
+    padding: 9px;
+	width: 90%;
+	font-size: 1.1em;
+	margin: 18px 0px;
+	border: 2px solid#EAEEF1;
+	color: #666666;
+	background:#EAEEF1;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:600;
+	margin-left: 5px;
+	outline:none;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
